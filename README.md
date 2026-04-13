@@ -32,7 +32,7 @@ practice_projects/
 
 ---
 
-## 🧠 Exercises Breakdown
+##  Exercises Breakdown
 
 ### 🔹 Data Loading & Inspection
 
@@ -109,7 +109,7 @@ practice_projects/
 
 ---
 
-## ⭐ Notes
+##  Notes
 
 This repository is part of a learning journey focused on mastering data analysis concepts through practical implementation.
 
